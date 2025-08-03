@@ -130,7 +130,7 @@ nav a:hover::after {
 }
 
 .hero-content p {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     margin-bottom: 55px;
     line-height: 1.9;
 }
@@ -237,6 +237,13 @@ nav a:hover::after {
     color: #E6E6E6;
     margin-bottom: 35px;
 }
+
+#about p {
+    font-size: 1.45rem;
+    margin-bottom: 20px;
+}
+
+
 
 /* Contact Section */
 #contact {
